@@ -1,0 +1,11 @@
+#server:
+#  port: 9001
+#eureka:
+#  client:
+#    register-with-eureka: false
+#    fetch-registry: false
+#spring:
+#  cloud:
+#    config:
+#      name: discovery
+#      uri: http://localhost:9002
